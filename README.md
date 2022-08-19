@@ -1,2 +1,2 @@
-# Classification-of-texts-
-NLP
+# data-science-project-6
+Contents for project 6
